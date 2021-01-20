@@ -2,15 +2,17 @@ I am the author of [qiuzhi99.com](https://www.qiuzhi99.com)
 
 ## 2021 年最新前后端编程学习视频
 
-[零基础开发完整大型商城网站](https://www.qiuzhi99.com/playlists/shopping-cart.html?invite_code=498391)（25 个视频 - 正在更新）
+[零基础学习 Vue JS 3 完全免费视频教程](https://www.qiuzhi99.com/playlists/vue3.html?invite_code=498391)（4 个视频 - 正在更新）
 
-[零基础开发聊天室网站](https://www.qiuzhi99.com/playlists/chat.html?invite_code=498391)（0 个视频 - 正在更新）
+[零基础开发完整大型商城网站](https://www.qiuzhi99.com/playlists/shopping-cart.html?invite_code=498391)（50 个视频 - 正在更新）
 
-[umi v3 & ant design pro v5 从零开始实战](https://www.qiuzhi99.com/playlists/antdprov5.html?invite_code=498391)（31 个视频 - 已完结）
+[umi v3 & ant design pro v5 从零开始实战](https://www.qiuzhi99.com/playlists/antdprov5.html?invite_code=498391)（32 个视频 - 已完结）
 
-[TypeScript 基础教程 2020 年重制版视频](https://www.qiuzhi99.com/playlists/ts2020.html?invite_code=498391)（17 个视频 - 已完结）
+[ant design pro v5 获取动态菜单与基于角色权限管理视频教程](https://www.qiuzhi99.com/playlists/antdprov5-menu.html?invite_code=498391)（2 个视频 - 正在更新）
 
 [Flutter 实战进阶小课视频教程](https://www.qiuzhi99.com/playlists/flutter-in-action.html?invite_code=498391)（7 个视频 - 正在更新）
+
+[TypeScript 基础教程 2020 年重制版视频](https://www.qiuzhi99.com/playlists/ts2020.html?invite_code=498391)（17 个视频 - 已完结）
 
 [Flutter 零基础入门实战视频教程](https://www.qiuzhi99.com/playlists/flutter.html?invite_code=498391)（28 个视频 - 已完结）
 
@@ -22,37 +24,37 @@ I am the author of [qiuzhi99.com](https://www.qiuzhi99.com)
 
 [NestJS + TypeGraphQL + MySQL 从入门到实战视频教程](https://www.qiuzhi99.com/playlists/nestjs.html?invite_code=498391)（35 个视频 - 已完结）
 
-[UmiJS & TypeScript & Ant Design Pro v4 从零开始实战教程](https://www.qiuzhi99.com/playlists/umi-antd-pro.html?invite_code=498391)（63 个视频 - 已完结）
-
 [TypeORM 从入门到自制 Web 框架实战视频教程](https://www.qiuzhi99.com/playlists/typeorm.html?invite_code=498391)（37 个视频 - 已完结）
+
+[UmiJS & TypeScript & Ant Design Pro v4 从零开始实战教程](https://www.qiuzhi99.com/playlists/umi-antd-pro.html?invite_code=498391)（63 个视频 - 已完结）
 
 [TypeScript + Express + MongoDB 基于角色的权限控制原理与实战](https://www.qiuzhi99.com/playlists/ts-role.html?invite_code=498391)（17 个视频 - 已完结）
 
 [带领初学者学习数据结构与算法免费视频教程](https://www.qiuzhi99.com/playlists/algorithms.html?invite_code=498391)（2 个视频 - 正在更新）
 
-[Ant Design Pro v4 基于角色的权限访问控制实战教程](https://www.qiuzhi99.com/playlists/ant-design-pro-permisson.html?invite_code=498391)（50 个视频 - 已完结）
-
 [Ant Design Pro 企业级后台实战](https://www.qiuzhi99.com/playlists/react-antd-admin.html?invite_code=498391)（73 个视频 - 已完结）
 
 [使用 TypeScript & mocha & chai 写测试代码实战](https://www.qiuzhi99.com/playlists/test-code.html?invite_code=498391)（17 个视频 - 已完结）
 
-[GraphQL + React Apollo + React Hook 大型项目实战](https://www.qiuzhi99.com/playlists/merng-client.html?invite_code=498391)（32 个视频 - 已完结）
+[Ant Design Pro v4 基于角色的权限访问控制实战教程](https://www.qiuzhi99.com/playlists/ant-design-pro-permisson.html?invite_code=498391)（50 个视频 - 已完结）
 
 [TypesScript + Nodejs + Express + Mongoose 实现 RESTful API 实战教程](https://www.qiuzhi99.com/playlists/ts-restful-api.html?invite_code=498391)（33 个视频 - 已完结）
 
-[GraphQL + React Apollo + React Hook + Express + Mongodb 大型前后端分离项目实战之后端](https://www.qiuzhi99.com/playlists/graphql-application.html?invite_code=498391)（19 个视频 - 已完结）
+[GraphQL + React Apollo + React Hook 大型项目实战](https://www.qiuzhi99.com/playlists/merng-client.html?invite_code=498391)（32 个视频 - 已完结）
 
 [诱人的 TypeScript 视频教程](https://www.qiuzhi99.com/playlists/typescript.html?invite_code=498391)（69 个视频 - 已完结）
 
-[轻松学 UmiJS 视频教程](https://www.qiuzhi99.com/playlists/umi.html?invite_code=498391)（35 个视频 - 已完结）
+[GraphQL + React Apollo + React Hook + Express + Mongodb 大型前后端分离项目实战之后端](https://www.qiuzhi99.com/playlists/graphql-application.html?invite_code=498391)（19 个视频 - 已完结）
 
 [React & MobX 入门与实战视频教程](https://www.qiuzhi99.com/playlists/react-mobx.html?invite_code=498391)（27 个视频 - 已完结）
 
+[轻松学 UmiJS 视频教程](https://www.qiuzhi99.com/playlists/umi.html?invite_code=498391)（35 个视频 - 已完结）
+
 [GraphQL + React + React Router + Apollo 实战教程](https://www.qiuzhi99.com/playlists/graphql-apollo.html?invite_code=498391)（10 个视频 - 已完结）
 
-[React SSR & Next.js & GraphQL & TypeScript 入门与进阶实战视频教程](https://www.qiuzhi99.com/playlists/nextjs.html?invite_code=498391)（18 个视频 - 已完结）
-
 [TypeORM 实战进阶提高视频教程](https://www.qiuzhi99.com/playlists/typeorm-advance.html?invite_code=498391)（0 个视频 - 已完结）
+
+[React SSR & Next.js & GraphQL & TypeScript 入门与进阶实战视频教程](https://www.qiuzhi99.com/playlists/nextjs.html?invite_code=498391)（18 个视频 - 已完结）
 
 [轻松学 dva（基础 + 进阶）视频教程](https://www.qiuzhi99.com/playlists/react-redux-saga-dva.html?invite_code=498391)（32 个视频 - 已完结）
 
