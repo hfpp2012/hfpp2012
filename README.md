@@ -6,6 +6,7 @@ I am the author of [qiuzhi99.com](https://www.qiuzhi99.com)
 
 [![hfpp2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfpp2012)](https://github.com/hfpp2012)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfpp2012)](https://github.com/hfpp2012)
 
 wechat: qiuzhi99pro
 
