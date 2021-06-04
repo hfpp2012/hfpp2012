@@ -8,7 +8,7 @@ I am the author of [qiuzhi99.com](https://www.qiuzhi99.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfpp2012)](https://github.com/hfpp2012)
 
-[![hfpp2012's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hfpp2012)](https://github.com/hfpp2012)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hfpp2012)](https://github.com/hfpp2012)
 
 wechat: qiuzhi99pro
 
